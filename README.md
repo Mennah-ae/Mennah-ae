@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mennah-ae" alt="mennah-ae" /></a> </p>
 
-- 🔭 I’m currently open to **a full-time job**
+- 🔭 I’m currently working at **Valeo-Egypt as a Junior Embedded Software Engineer**
 
 - 🌱 I’m currently learning **AUTOSAR based on ARM Architecture.**
 
